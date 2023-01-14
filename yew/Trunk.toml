@@ -1,0 +1,3 @@
+[serve]
+crt = "./server.crt"
+key = "./server.key"

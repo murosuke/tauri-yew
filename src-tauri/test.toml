@@ -1,0 +1,4 @@
+[ui_access]
+scheme = "http"
+url = "server.my"
+port = "8080"
