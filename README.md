@@ -8,6 +8,7 @@ tauri will first try to access to server written in test.toml. If connection fai
 - `trunk serve`
   - Console log will show url to access. Check that browser can access to the url.
 - `cd src-tauri`
+  - with another console, not with the one started yew server.
 - `cargo tauri dev`
   - Start application once to let create test.toml beside tauri.exe.
 - edit test.toml file created.
